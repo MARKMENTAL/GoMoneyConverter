@@ -1,4 +1,4 @@
 # PerlMoneyConverter
 A program I made to convert USD to JPY. I plan to add more currencies to this as i familiarize myself with Perl.
 
-![consolemoneyconverter](https://user-images.githubusercontent.com/17995774/125175927-7a208a00-e19d-11eb-9583-ef85958e43a7.png)
+![image](https://user-images.githubusercontent.com/17995774/129407423-310dd9ca-dc3d-47a8-b31d-dee6d5529d22.png)
